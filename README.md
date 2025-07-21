@@ -104,5 +104,5 @@ This project delivers an end-to-end, AI-powered financial risk prediction system
 
 ---
 
-*See the notebook/script for full details, more visualizations, and code explanations. Ready for portfolio, recruiters, or real-world deployment!*
+
 
